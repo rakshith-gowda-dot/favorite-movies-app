@@ -21,6 +21,7 @@ Core Features
 ✅ Responsive design with TailwindCSS
 
 Technical Features
+
 ✅ React + TypeScript + Vite frontend
 
 ✅ Node.js + Express backend
@@ -144,11 +145,11 @@ curl http://localhost:5000/api/health
 curl http://localhost:5000/api/entries
 🎯 API Endpoints
 Method	Endpoint	Description
-GET	/api/health	Health check
-GET	/api/entries	Get entries with pagination
-POST	/api/entries	Create new entry
-PUT	/api/entries/:id	Update entry
-DELETE	/api/entries/:id	Delete entry
+GET	/api/health	#Health check
+GET	/api/entries	#Get entries with pagination
+POST	/api/entries	#Create new entry
+PUT	/api/entries/:id	#Update entry
+DELETE	/api/entries/:id	#Delete entry
 ```
 Example API Usage
 Create a new entry:
