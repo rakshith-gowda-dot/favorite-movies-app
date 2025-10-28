@@ -10,6 +10,7 @@ Backend: http://localhost:5000
 
 Features
 Core Features
+
 ✅ Add new movie/TV show entries
 
 ✅ View all entries in an infinite scrolling table
