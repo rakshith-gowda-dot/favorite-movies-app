@@ -6,7 +6,11 @@ A full-stack web application that allows users to manage their favorite movies a
 Frontend: http://localhost:5173
 
 Backend: http://localhost:5000
+
 ```
+## For Verifying use these credentials
+## email:example@gmail.com
+## password:example
 
 Features
 Core Features
